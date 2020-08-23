@@ -21,3 +21,5 @@ color.py can be used to find the hsv values of any color object you wish to use 
 
 Below is the youtube link of the demonstration of this entire project. Please have a look !
 [Youtube Link](https://www.youtube.com/watch?v=NyeHKRjW5a0 "Computer Vision: Game Control")
+
+[Linkedin Profile](https://www.linkedin.com/in/ashif-ali-mollick-750b65161/)
